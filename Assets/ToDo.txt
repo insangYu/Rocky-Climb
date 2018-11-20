@@ -1,0 +1,23 @@
+ 	//- 클릭시 캐릭터 손 돌 가운데로 옮기기  
+	//- 마지막 돌 클릭시 클리어
+	//- cave scene 구현
+	//- meter 추가
+- mountain2 구현
+- 클리어시 다음 mountain 이동
+- 설정 구현
+- cave 클리어시 아이템 획득 구현
+- 광고 
+- RestartPanel 다시시작 고치기
+- 사운드, 효과음
+
+
+
+- treasure box 깨면 gem 얻는 애니메이션
+- 캐릭터 돌 클릭시 애니메이션
+- 스카프 애니메이션
+- 깃발 애니메이션
+- 스테이지 클리어시 애니메이션
+
+JetBrains.dotPeek
+
+                       충돌처리는 Fixed Update 

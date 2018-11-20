@@ -1,0 +1,3024 @@
+fileFormatVersion: 2
+guid: c2c930bc1a1f7614b8350adecd4deb38
+timeCreated: 1536399231
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: animation_player_0
+    21300002: animation_player_1
+    21300004: animation_player_2
+    21300006: animation_player_3
+    21300008: animation_player_4
+    21300010: animation_player_5
+    21300012: animation_player_6
+    21300014: animation_player_7
+    21300016: animation_player_8
+    21300018: animation_player_9
+    21300020: animation_player_10
+    21300022: animation_player_11
+    21300024: fist
+    21300026: animation_player_13
+    21300028: animation_player_14
+    21300030: animation_player_15
+    21300032: animation_player_16
+    21300034: animation_player_17
+    21300036: animation_player_18
+    21300038: animation_player_19
+    21300040: animation_player_20
+    21300042: animation_player_21
+    21300044: animation_player_22
+    21300046: animation_player_23
+    21300048: animation_player_24
+    21300050: animation_player_25
+    21300052: animation_player_26
+    21300054: animation_player_27
+    21300056: animation_player_28
+    21300058: animation_player_29
+    21300060: hand
+    21300062: animation_player_31
+    21300064: animation_player_32
+    21300066: animation_player_33
+    21300068: animation_player_34
+    21300070: animation_player_35
+    21300072: animation_player_36
+    21300074: animation_player_37
+    21300076: animation_player_38
+    21300078: animation_player_39
+    21300080: animation_player_40
+    21300082: animation_player_41
+    21300084: animation_player_42
+    21300086: animation_player_43
+    21300088: animation_player_44
+    21300090: animation_player_45
+    21300092: animation_player_46
+    21300094: animation_player_47
+    21300096: rightArm_top
+    21300098: handL
+    21300100: animation_player_50
+    21300102: animation_player_51
+    21300104: animation_player_52
+    21300106: animation_player_53
+    21300108: animation_player_54
+    21300110: animation_player_55
+    21300112: animation_player_56
+    21300114: animation_player_57
+    21300116: animation_player_58
+    21300118: animation_player_59
+    21300120: animation_player_60
+    21300122: animation_player_61
+    21300124: animation_player_62
+    21300126: handR
+    21300128: animation_player_64
+    21300130: animation_player_65
+    21300132: animation_player_66
+    21300134: animation_player_67
+    21300136: animation_player_68
+    21300138: animation_player_69
+    21300140: head
+    21300142: animation_player_71
+    21300144: animation_player_72
+    21300146: animation_player_73
+    21300148: animation_player_74
+    21300150: animation_player_75
+    21300152: animation_player_76
+    21300154: animation_player_77
+    21300156: finger
+    21300158: animation_player_79
+    21300160: animation_player_80
+    21300162: animation_player_81
+    21300164: animation_player_82
+    21300166: animation_player_83
+    21300168: shoes
+    21300170: animation_player_85
+    21300172: animation_player_86
+    21300174: animation_player_87
+    21300176: animation_player_88
+    21300178: animation_player_89
+    21300180: animation_player_90
+    21300182: leftArm_top
+    21300184: animation_player_92
+    21300186: animation_player_93
+    21300188: leg
+    21300190: animation_player_95
+    21300192: animation_player_96
+    21300194: animation_player_97
+    21300196: animation_player_98
+    21300198: animation_player_99
+    21300200: animation_player_100
+    21300202: animation_player_101
+    21300204: animation_player_102
+    21300206: animation_player_103
+    21300208: animation_player_104
+    21300210: animation_player_105
+    21300212: animation_player_106
+    21300214: animation_player_107
+    21300216: animation_player_108
+    21300218: animation_player_109
+    21300220: animation_player_110
+    21300222: animation_player_111
+    21300224: animation_player_112
+    21300226: animation_player_113
+    21300228: pants
+    21300230: animation_player_115
+    21300232: animation_player_116
+    21300234: animation_player_117
+    21300236: animation_player_118
+    21300238: animation_player_119
+    21300240: animation_player_120
+    21300242: animation_player_121
+    21300244: animation_player_122
+    21300246: animation_player_123
+    21300248: animation_player_124
+    21300250: animation_player_125
+    21300252: animation_player_126
+    21300254: animation_player_127
+    21300256: animation_player_128
+    21300258: animation_player_129
+    21300260: animation_player_130
+    21300262: animation_player_131
+    21300264: animation_player_132
+    21300266: animation_player_133
+    21300268: animation_player_134
+    21300270: animation_player_135
+    21300272: animation_player_136
+    21300274: animation_player_137
+    21300276: animation_player_138
+    21300278: animation_player_139
+    21300280: animation_player_140
+    21300282: animation_player_141
+    21300284: animation_player_142
+    21300286: animation_player_143
+    21300288: animation_player_144
+    21300290: animation_player_145
+    21300292: animation_player_146
+    21300294: animation_player_147
+    21300296: animation_player_148
+    21300298: _hand
+    21300300: animation_player_150
+    21300302: animation_player_151
+    21300304: animation_player_152
+    21300306: animation_player_153
+    21300308: animation_player_154
+    21300310: animation_player_155
+    21300312: animation_player_156
+    21300314: animation_player_157
+    21300316: animation_player_158
+    21300318: animation_player_159
+    21300320: animation_player_160
+    21300322: animation_player_161
+    21300324: animation_player_162
+    21300326: animation_player_163
+    21300328: animation_player_164
+    21300330: animation_player_165
+    21300332: animation_player_166
+    21300334: animation_player_167
+    21300336: animation_player_168
+    21300338: animation_player_169
+    21300340: animation_player_170
+    21300342: animation_player_171
+    21300344: animation_player_172
+    21300346: animation_player_173
+    21300348: animation_player_174
+    21300350: animation_player_175
+    21300352: animation_player_176
+    21300354: animation_player_177
+    21300356: animation_player_178
+    21300358: animation_player_179
+    21300360: animation_player_180
+    21300362: animation_player_181
+    21300364: animation_player_182
+    21300366: animation_player_183
+    21300368: animation_player_184
+    21300370: animation_player_185
+    21300372: animation_player_186
+    21300374: animation_player_187
+    21300376: animation_player_188
+    21300378: animation_player_189
+    21300380: animation_player_190
+    21300382: animation_player_191
+    21300384: animation_player_192
+    21300386: body
+    21300388: animation_player_194
+    21300390: animation_player_195
+    21300392: animation_player_196
+    21300394: animation_player_197
+    21300396: animation_player_198
+    21300398: nail
+    21300400: animation_player_200
+    21300402: animation_player_201
+    21300404: animation_player_202
+    21300406: animation_player_203
+    21300408: animation_player_204
+    21300410: animation_player_205
+    21300412: top
+    21300414: animation_player_207
+    21300416: leftArm_bottom
+    21300418: rightArm_bottom
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animation_player_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1865
+        width: 132
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1983
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1893
+        width: 138
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1869
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_4
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1842
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_5
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1975
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_6
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1952
+        width: 95
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1825
+        width: 35
+        height: 203
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.50246304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_8
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1824
+        width: 24
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_9
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1919
+        width: 41
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_10
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1848
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_11
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1871
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fist
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1888
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_13
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1969
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_14
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1960
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_15
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1962
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1923
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_17
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1965
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1918
+        width: 142
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_19
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1927
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1860
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_21
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1903
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_22
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1885
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_23
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1864
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_24
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1826
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_25
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1894
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_26
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1784
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_27
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1860
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_28
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1795
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_29
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1795
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hand
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1798
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_31
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1826
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1652
+        width: 209
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_33
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1741
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1741
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_35
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1740
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_36
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1742
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1741
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_38
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1617
+        width: 123
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_39
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1792
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_40
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1628
+        width: 126
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_41
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1606
+        width: 171
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_42
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1635
+        width: 123
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_43
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1771
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_44
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1685
+        width: 121
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_45
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1758
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_46
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1651
+        width: 148
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_47
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1720
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightArm_top
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1595
+        width: 114
+        height: 160
+      alignment: 9
+      pivot: {x: 0.26538622, y: 0.8345505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: handL
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1641
+        width: 136
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_50
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1724
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1548
+        width: 244
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_52
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1677
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_53
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1690
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_54
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1656
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_55
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1620
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_56
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1543
+        width: 121
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_57
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1622
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_58
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1484
+        width: 252
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_59
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1572
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_60
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1588
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_61
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1528
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_62
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1493
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: handR
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1438
+        width: 135
+        height: 130
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_64
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1475
+        width: 179
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_65
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1486
+        width: 156
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_66
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1486
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_67
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1363
+        width: 23
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_68
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1518
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_69
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1518
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1471
+        width: 133
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5154639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_71
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1490
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_72
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1509
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_73
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1368
+        width: 271
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_74
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1420
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_75
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1359
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1421
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_77
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1411
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: finger
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1396
+        width: 47
+        height: 79
+      alignment: 9
+      pivot: {x: 0.47872338, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_79
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1319
+        width: 118
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_80
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1319
+        width: 65
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_81
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1411
+        width: 124
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_82
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1444
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_83
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1453
+        width: 174
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1422
+        width: 57
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49358976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_85
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1248
+        width: 142
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_86
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1333
+        width: 117
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_87
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1333
+        width: 117
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_88
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1403
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_89
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1404
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_90
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1410
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftArm_top
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1318
+        width: 159
+        height: 115
+      alignment: 9
+      pivot: {x: 0.10360545, y: 0.79490805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_92
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1359
+        width: 176
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_93
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1347
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leg
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1312
+        width: 49
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8751145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_95
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1312
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_96
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1376
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_97
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1336
+        width: 69
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_98
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1127
+        width: 288
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_99
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1191
+        width: 23
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_100
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1276
+        width: 81
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_101
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1287
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_102
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1289
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_103
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1290
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_104
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1290
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_105
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1291
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_106
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1290
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_107
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1262
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_108
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1191
+        width: 232
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1071
+        width: 172
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_110
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1104
+        width: 29
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_111
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1214
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_112
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1212
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_113
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1232
+        width: 81
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pants
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1124
+        width: 164
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5030488, y: 0.5075188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_115
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1160
+        width: 120
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_116
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1168
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_117
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1220
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_118
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1157
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_119
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1083
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_120
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1155
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_121
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1188
+        width: 81
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_122
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1180
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_123
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1066
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_124
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1068
+        width: 17
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_125
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1145
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_126
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1128
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_127
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1139
+        width: 67
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_128
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 967
+        width: 245
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_129
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1100
+        width: 81
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_130
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 928
+        width: 290
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_131
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 940
+        width: 319
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_132
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 972
+        width: 146
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_133
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 899
+        width: 23
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_134
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1056
+        width: 81
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_135
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1035
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_136
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1034
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_137
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1020
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_138
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1024
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_139
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1027
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_140
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1029
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1037
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_142
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1038
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_143
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1038
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_144
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1038
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_145
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1027
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_146
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1037
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_147
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1024
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_148
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1020
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _hand
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1032
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_150
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 788
+        width: 46
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_151
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 923
+        width: 250
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_152
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1015
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_153
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1031
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_154
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1032
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_155
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1032
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_156
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1032
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_157
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1015
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_158
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1004
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_159
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1013
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_160
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 974
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_161
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1013
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_162
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 856
+        width: 184
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_163
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 972
+        width: 35
+        height: 56
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.5089286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_164
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 974
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_165
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 965
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_166
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 965
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_167
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 648
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_168
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 797
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_169
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 855
+        width: 28
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_170
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 708
+        width: 184
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_171
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 724
+        width: 291
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_172
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 849
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_173
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 850
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_174
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 848
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_175
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 848
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_176
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 848
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_177
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 848
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_178
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 660
+        width: 305
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_179
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 653
+        width: 155
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_180
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 720
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_181
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 756
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_182
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 586
+        width: 173
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_183
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 591
+        width: 76
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_184
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 650
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_185
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 487
+        width: 287
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_186
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 497
+        width: 287
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_187
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 496
+        width: 26
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_188
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 429
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_189
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 442
+        width: 288
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_190
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 516
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_191
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 410
+        width: 205
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_192
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 560
+        width: 39
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 760
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_194
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 362
+        width: 22
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_195
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 239
+        width: 287
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_196
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 403
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_197
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 286
+        width: 287
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_198
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 388
+        width: 163
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nail
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 377
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_200
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 164
+        width: 299
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_201
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 153
+        width: 22
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_202
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 277
+        width: 15
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_203
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 281
+        width: 164
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_204
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 238
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_205
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 4
+        width: 364
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 12
+        width: 314
+        height: 211
+      alignment: 9
+      pivot: {x: 0.49522293, y: 0.49763036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_player_207
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 36
+        width: 185
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftArm_bottom
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 103
+        width: 174
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50549453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightArm_bottom
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 5
+        width: 173
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 100689459517882
+  assetBundleName: 
+  assetBundleVariant: 

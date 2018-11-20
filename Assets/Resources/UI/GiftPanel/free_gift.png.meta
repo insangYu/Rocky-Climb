@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: 5901fb974f88e57469d4421105f1e4ff
+timeCreated: 1535092316
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: free_gift_0
+    21300002: free_gift_1
+    21300004: free_gift_2
+    21300006: free_gift_3
+    21300008: free_gift_4
+    21300010: free_gift_5
+    21300012: free_gift_6
+    21300014: free_gift_7
+    21300016: free_gift_8
+    21300018: free_gift_9
+    21300020: free_gift_10
+    21300022: free_gift_11
+    21300024: free_gift_12
+    21300026: free_gift_13
+    21300028: free_gift_14
+    21300030: free_gift_15
+    21300032: free_gift_16
+    21300034: free_gift_17
+    21300036: free_gift_18
+    21300038: free_gift_19
+    21300040: free_gift_20
+    21300042: free_gift_21
+    21300044: free_gift_22
+    21300046: free_gift_23
+    21300048: free_gift_24
+    21300050: free_gift_25
+    21300052: free_gift_26
+    21300054: free_gift_27
+    21300056: free_gift_28
+    21300058: free_gift_29
+    21300060: free_gift_30
+    21300062: free_gift_31
+    21300064: free_gift_32
+    21300066: free_gift_33
+    21300068: free_gift_34
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: free_gift_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1980
+        width: 147
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_1
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1815
+        width: 157
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_2
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1815
+        width: 157
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_3
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1814
+        width: 214
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1553
+        width: 822
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_5
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1838
+        width: 291
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_6
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1848
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_7
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1814
+        width: 102
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_8
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1814
+        width: 102
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_9
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1595
+        width: 292
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_10
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1606
+        width: 158
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_11
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1571
+        width: 291
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_12
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1571
+        width: 291
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_13
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1776
+        width: 147
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_14
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1643
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1125
+        width: 824
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_16
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1329
+        width: 423
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_17
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1327
+        width: 291
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_18
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1327
+        width: 291
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_19
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1510
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_20
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1200
+        width: 769
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_21
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1200
+        width: 60
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_22
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1200
+        width: 60
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_23
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1278
+        width: 157
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 765
+        width: 896
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 781
+        width: 821
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_26
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1035
+        width: 291
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_27
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 791
+        width: 291
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 897
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_29
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 361
+        width: 821
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_30
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 655
+        width: 291
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_31
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 361
+        width: 241
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_32
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2
+        width: 896
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_33
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 296
+        width: 147
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free_gift_34
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 2
+        width: 242
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
